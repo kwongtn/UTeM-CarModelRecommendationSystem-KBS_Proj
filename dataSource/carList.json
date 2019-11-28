@@ -1,0 +1,1124 @@
+[
+    {
+        "model": "Proton Saga 1985",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2380",
+        "platform": "Mitsubishi C10",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1985,
+        "endOfProduction": 1992
+    },
+    {
+        "model": "Proton Saga Iswara",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2380",
+        "platform": "Mitsubishi C10",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1992,
+        "endOfProduction": 2006
+    },
+    {
+        "model": "Proton Saga Aeroback",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "B",
+        "wheelbase": "2380",
+        "platform": "Mitsubishi C10",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1987,
+        "endOfProduction": 1992
+    },
+    {
+        "model": "Proton Saga Iswara Aeroback",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "B",
+        "wheelbase": "2380",
+        "platform": "Mitsubishi C10",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1992,
+        "endOfProduction": 2003
+    },
+    {
+        "model": "Proton Saga LMST",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "B",
+        "wheelbase": "2380",
+        "platform": "Mitsubishi C10",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2003,
+        "endOfProduction": 2008
+    },
+    {
+        "model": "Proton Wira",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "C",
+        "wheelbase": "2500",
+        "platform": "Mitsubishi CB",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G91x"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "4G92P"
+            },
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G93P"
+            },
+            {
+                "engineCapacity": 2.0,
+                "engine": "4D68x"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "Iran",
+            "Philippines",
+            "Vietnam"
+        ],
+        "exported": true,
+        "manufactureYear": 1993,
+        "endOfProduction": 2009
+    },
+    {
+        "model": "Proton Wira Aeroback",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "C",
+        "wheelbase": "2500",
+        "platform": "Mitsubishi CB",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G91x"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "4G92P"
+            },
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G93P"
+            },
+            {
+                "engineCapacity": 2.0,
+                "engine": "4D68x"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "Iran",
+            "Philippines",
+            "Vietnam"
+        ],
+        "exported": true,
+        "manufactureYear": 1993,
+        "endOfProduction": 2009
+    },
+    {
+        "model": "Proton Satria",
+        "doorCount": 3,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "C",
+        "wheelbase": "2440",
+        "platform": "Mitsubishi CA",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "4G13P"
+            },
+            {
+                "engineCapacity": 1.5,
+                "engine": "4G15P"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "4G92P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 3,
+                "type": "Auto"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1994,
+        "endOfProduction": 2006
+    },
+    {
+        "model": "Proton Satria GTi",
+        "doorCount": 3,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "C",
+        "wheelbase": "2440",
+        "platform": "Mitsubishi CA",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G93P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1998,
+        "endOfProduction": 2005
+    },
+    {
+        "model": "Proton Putra",
+        "doorCount": 2,
+        "bodyStyle": "Coupe",
+        "sizeSegment": "C",
+        "wheelbase": "2440",
+        "platform": "Mitsubishi CC",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G93P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1994,
+        "endOfProduction": 2001
+    },
+    {
+        "model": "Proton Arena",
+        "doorCount": 2,
+        "bodyStyle": "Pickup",
+        "sizeSegment": "C",
+        "wheelbase": "2600",
+        "platform": "Mitsubishi CB",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G15P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2002,
+        "endOfProduction": 2010
+    },
+    {
+        "model": "Proton Perdana",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "D",
+        "wheelbase": "2635",
+        "platform": "Mitsubishi E50",
+        "powerTrain": [
+            {
+                "engineCapacity": 2.0,
+                "engine": "4G63P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1995,
+        "endOfProduction": 1998
+    },
+    {
+        "model": "Proton Perdana v6",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "D",
+        "wheelbase": "2635",
+        "platform": "Mitsubishi E50",
+        "powerTrain": [
+            {
+                "engineCapacity": 2.0,
+                "engine": "6A12"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 1998,
+        "endOfProduction": 2010
+    },
+    {
+        "model": "Proton Tiara",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "A",
+        "wheelbase": "2290",
+        "platform": "Citroen AX",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.1,
+                "engine": "TU1x"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 1996,
+        "endOfProduction": 2000
+    },
+    {
+        "model": "Proton Waja",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "C",
+        "wheelbase": "2600",
+        "platform": "Mitsubishi DA",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "4G18P"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CPS"
+            },
+            {
+                "engineCapacity": 1.8,
+                "engine": "F4P"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2000,
+        "endOfProduction": 2011
+    },
+    {
+        "model": "Proton Juara",
+        "doorCount": 5,
+        "bodyStyle": "Microvan",
+        "sizeSegment": "A",
+        "wheelbase": "2390",
+        "platform": "Mitsubishi Town Box",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.1,
+                "engine": "4A31"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 2001,
+        "endOfProduction": 2003
+    },
+    {
+        "model": "Proton Gen 2",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "C",
+        "wheelbase": "2600",
+        "platform": "Proton CM",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH IAFM"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CPS"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "China",
+            "Iran"
+        ],
+        "exported": true,
+        "manufactureYear": 2004,
+        "endOfProduction": 2012
+    },
+    {
+        "model": "Proton Persona 2007",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "C",
+        "wheelbase": "2600",
+        "platform": "Proton CM",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH IAFM"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "China"
+        ],
+        "exported": true,
+        "manufactureYear": 2007,
+        "endOfProduction": 2016
+    },
+    {
+        "model": "Proton Satria Neo",
+        "doorCount": 3,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "B",
+        "wheelbase": "2440",
+        "platform": "Proton BS",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CPS"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2006,
+        "endOfProduction": 2015
+    },
+    {
+        "model": "Proton Savvy",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "A",
+        "wheelbase": "2395",
+        "platform": "Proton BT",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.2,
+                "engine": "D4F"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2005,
+        "endOfProduction": 2011
+    },
+    {
+        "model": "Proton Saga 2008",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2465",
+        "platform": "Proton BT",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE IAFM"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH IAFM"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2008,
+        "endOfProduction": 2011
+    },
+    {
+        "model": "Proton Saga FLX",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2465",
+        "platform": "Proton BT",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE IAFM+"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH IAFM+"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2008,
+        "endOfProduction": 2011
+    },
+    {
+        "model": "Proton Saga 2016",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2465",
+        "platform": "Proton BT",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE VVT"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2016,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Exora",
+        "doorCount": 5,
+        "bodyStyle": "MPV",
+        "sizeSegment": "C",
+        "wheelbase": "2730",
+        "platform": "Proton P2",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CPS"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CFE Turbo"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2009,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Inspira",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "C",
+        "wheelbase": "2635",
+        "platform": "Mitsubishi GS",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.8,
+                "engine": "4B10"
+            },
+            {
+                "engineCapacity": 2.0,
+                "engine": "4B11"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 2010,
+        "endOfProduction": 2015
+    },
+    {
+        "model": "Proton Preve",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "C",
+        "wheelbase": "2650",
+        "platform": "Proton P2",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CFE Turbo"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH IAFM+"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "Bangladesh"
+        ],
+        "exported": true,
+        "manufactureYear": 2012,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Preve",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "C",
+        "wheelbase": "2650",
+        "platform": "Proton P2",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH CFE Turbo"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2013,
+        "endOfProduction": 2019
+    },
+    {
+        "model": "Proton Perdana 2013",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "D",
+        "wheelbase": "2800",
+        "platform": "Honda CP",
+        "powerTrain": [
+            {
+                "engineCapacity": 2.0,
+                "engine": "R20A3"
+            },
+            {
+                "engineCapacity": 2.4,
+                "engine": "K24Z2"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 2013,
+        "endOfProduction": 2016
+    },
+    {
+        "model": "Proton Perdana 2016",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "D",
+        "wheelbase": "2800",
+        "platform": "Honda CP",
+        "powerTrain": [
+            {
+                "engineCapacity": 2.0,
+                "engine": "R20A3"
+            },
+            {
+                "engineCapacity": 2.4,
+                "engine": "K24Z2"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 2016,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Iriz",
+        "doorCount": 5,
+        "bodyStyle": "Hatchback",
+        "sizeSegment": "B",
+        "wheelbase": "2555",
+        "platform": "Proton BH",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.3,
+                "engine": "S4PE VVT"
+            },
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH VVT"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2014,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Persona",
+        "doorCount": 4,
+        "bodyStyle": "Sedan",
+        "sizeSegment": "B",
+        "wheelbase": "2555",
+        "platform": "Proton BH",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.6,
+                "engine": "S4PH VVT"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 100,
+                "type": "CVT"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": true,
+        "manufactureYear": 2016,
+        "endOfProduction": 3000
+    },
+    {
+        "model": "Proton Ertiga",
+        "doorCount": 5,
+        "bodyStyle": "MPV",
+        "sizeSegment": "B",
+        "wheelbase": "2740",
+        "platform": "Suzuki ZC",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.4,
+                "engine": "K14B"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 5,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 4,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia"
+        ],
+        "exported": false,
+        "manufactureYear": 2016,
+        "endOfProduction": 2019
+    },
+    {
+        "model": "Proton X70",
+        "doorCount": 5,
+        "bodyStyle": "SUV",
+        "sizeSegment": "B",
+        "wheelbase": "2670",
+        "platform": "Geely NL",
+        "powerTrain": [
+            {
+                "engineCapacity": 1.5,
+                "engine": "Turbo I3"
+            },
+            {
+                "engineCapacity": 1.8,
+                "engine": "4G18TDB I4"
+            },
+            {
+                "engineCapacity": 2.0,
+                "engine": "4G20 I4"
+            }
+        ],
+        "transmission": [
+            {
+                "gearCount": 6,
+                "type": "Manual"
+            },
+            {
+                "gearCount": 6,
+                "type": "Auto"
+            }
+        ],
+        "assembly": [
+            "Malaysia",
+            "China",
+            "Belarus"
+        ],
+        "exported": true,
+        "manufactureYear": 2016,
+        "endOfProduction": 3000
+    }
+]
