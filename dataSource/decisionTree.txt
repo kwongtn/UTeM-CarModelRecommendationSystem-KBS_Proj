@@ -5,37 +5,37 @@ engineCapacity > 1.150
 |   |   platform = Geely NL: Proton X70 {Proton X70=18}
 
 |   |   platform = Honda CP
-|   |   |   manufactureYear > 2014.500: Proton Perdana 2016 {Proton Perdana 2016=2, Proton X70=0}
-|   |   |   manufactureYear ≤ 2014.500: Proton Perdana 2013 {Proton Perdana 2013=2, Proton X70=0}
+|   |   |   manufactureYear > 2014.500: Proton Perdana 2016 {Proton Perdana 2016=2}
+|   |   |   manufactureYear ≤ 2014.500: Proton Perdana 2013 {Proton Perdana 2013=2}
 
-|   |   platform = Mitsubishi CA: Proton Satria {Proton Satria GTi=1, Proton Satria=9, Proton X70=0}
+|   |   platform = Mitsubishi CA: Proton Satria {Proton Satria GTi=1, Proton Satria=9}
 
-|   |   platform = Mitsubishi CB: Proton Wira Aeroback {Proton Arena=1, Proton Wira=72, Proton Wira Aeroback=76, Proton X70=0}
+|   |   platform = Mitsubishi CB: Proton Wira Aeroback {Proton Arena=1, Proton Wira=72, Proton Wira Aeroback=76}
 
-|   |   platform = Mitsubishi CC: Proton Putra {Proton Putra=2, Proton X70=0}
+|   |   platform = Mitsubishi CC: Proton Putra {Proton Putra=2}
 
-|   |   platform = Mitsubishi DA: Proton Waja {Proton Waja=8, Proton X70=0}
+|   |   platform = Mitsubishi DA: Proton Waja {Proton Waja=8}
 
-|   |   platform = Mitsubishi E50: Proton Perdana {Proton Perdana=2, Proton Perdana v6=1, Proton X70=0}
+|   |   platform = Mitsubishi E50: Proton Perdana {Proton Perdana=2, Proton Perdana v6=1}
 
-|   |   platform = Mitsubishi GS: Proton Inspira {Proton Inspira=4, Proton X70=0}
+|   |   platform = Mitsubishi GS: Proton Inspira {Proton Inspira=4}
 
 |   |   platform = Proton BH
 
-|   |   |   bodyStyle = Hatchback: Proton Iriz {Proton Iriz=4, Proton X70=0}
-|   |   |   bodyStyle = Sedan: Proton Persona {Proton Persona=2, Proton X70=0}
+|   |   |   bodyStyle = Hatchback: Proton Iriz {Proton Iriz=4}
+|   |   |   bodyStyle = Sedan: Proton Persona {Proton Persona=2}
 
-|   |   platform = Proton BS: Proton Satria Neo {Proton Satria Neo=6, Proton X70=0}
+|   |   platform = Proton BS: Proton Satria Neo {Proton Satria Neo=6}
 
 |   |   platform = Proton BT
 
 |   |   |   gearCount > 4.500
-|   |   |   |   transmissionType = CVT: Proton Saga FLX {Proton Saga FLX=2, Proton X70=0
+|   |   |   |   transmissionType = CVT: Proton Saga FLX {Proton Saga FLX=2
 |   |   |   |   transmissionType = Manual
-|   |   |   |   |   engineCapacity > 1.450: Proton Saga 2008 {Proton Saga 2008=1, Proton Saga FLX=1, Proton X70=0}
-|   |   |   |   |   engineCapacity ≤ 1.450: Proton Saga 2016 {Proton Saga 2016=1, Proton Saga 2008=1, Proton Saga FLX=1, Proton X70=0}
+|   |   |   |   |   engineCapacity > 1.450: Proton Saga 2008 {Proton Saga 2008=1, Proton Saga FLX=1}
+|   |   |   |   |   engineCapacity ≤ 1.450: Proton Saga 2016 {Proton Saga 2016=1, Proton Saga 2008=1, Proton Saga FLX=1}
 
-|   |   |   gearCount ≤ 4.500: Proton Saga 2008 {Proton Saga 2008=2, Proton X70=0}
+|   |   |   gearCount ≤ 4.500: Proton Saga 2008 {Proton Saga 2008=2}
 
 |   |   platform = Proton CM
 |   |   |   bodyStyle = Hatchback: Proton Gen 2 {Proton Gen 2=24}
