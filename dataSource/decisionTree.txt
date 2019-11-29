@@ -1,0 +1,52 @@
+engineCapacity > 1.150
+
+|   wheelbase > 2417.500
+
+|   |   platform = Geely NL: Proton X70 {Proton X70=18}
+
+|   |   platform = Honda CP
+|   |   |   manufactureYear > 2014.500: Proton Perdana 2016 {Proton Perdana 2016=2, Proton X70=0}
+|   |   |   manufactureYear ≤ 2014.500: Proton Perdana 2013 {Proton Perdana 2013=2, Proton X70=0}
+
+|   |   platform = Mitsubishi CA: Proton Satria {Proton Satria GTi=1, Proton Satria=9, Proton X70=0}
+
+|   |   platform = Mitsubishi CB: Proton Wira Aeroback {Proton Arena=1, Proton Wira=72, Proton Wira Aeroback=76, Proton X70=0}
+
+|   |   platform = Mitsubishi CC: Proton Putra {Proton Putra=2, Proton X70=0}
+
+|   |   platform = Mitsubishi DA: Proton Waja {Proton Waja=8, Proton X70=0}
+
+|   |   platform = Mitsubishi E50: Proton Perdana {Proton Perdana=2, Proton Perdana v6=1, Proton X70=0}
+
+|   |   platform = Mitsubishi GS: Proton Inspira {Proton Inspira=4, Proton X70=0}
+
+|   |   platform = Proton BH
+
+|   |   |   bodyStyle = Hatchback: Proton Iriz {Proton Iriz=4, Proton X70=0}
+|   |   |   bodyStyle = Sedan: Proton Persona {Proton Persona=2, Proton X70=0}
+
+|   |   platform = Proton BS: Proton Satria Neo {Proton Satria Neo=6, Proton X70=0}
+
+|   |   platform = Proton BT
+
+|   |   |   gearCount > 4.500
+|   |   |   |   transmissionType = CVT: Proton Saga FLX {Proton Saga FLX=2, Proton X70=0
+|   |   |   |   transmissionType = Manual
+|   |   |   |   |   engineCapacity > 1.450: Proton Saga 2008 {Proton Saga 2008=1, Proton Saga FLX=1, Proton X70=0}
+|   |   |   |   |   engineCapacity ≤ 1.450: Proton Saga 2016 {Proton Saga 2016=1, Proton Saga 2008=1, Proton Saga FLX=1, Proton X70=0}
+
+|   |   |   gearCount ≤ 4.500: Proton Saga 2008 {Proton Saga 2008=2, Proton X70=0}
+
+|   |   platform = Proton CM
+|   |   |   bodyStyle = Hatchback: Proton Gen 2 {Proton Gen 2=24}
+|   |   |   bodyStyle = Sedan: Proton Persona 2007 {Proton Persona 2007=8}
+
+|   |   platform = Proton P2
+|   |   |   wheelbase > 2690: Proton Exora {Proton Exora=4}
+|   |   |   wheelbase ≤ 2690: Proton Preve {Proton Preve=9}
+
+|   |   platform = Suzuki ZC: Proton Ertiga {Proton Ertiga=2}
+
+|   wheelbase ≤ 2417.500: Proton Saga 1985 {Proton Saga 1985=4, Proton Saga Iswara=4, Proton Saga Aeroback=4, Proton Saga Iswara Aeroback=4, Proton Saga LMST=1, Proton Savvy=1}
+
+engineCapacity ≤ 1.150: Proton Tiara {Proton Tiara=1}
