@@ -5,7 +5,15 @@
 
 
 # Knowledge Representation
-_Mockler Chart, Decision Table, Production Rules_
+## Mockler Chart
+
+
+## Decision Table
+
+
+## Production Rules
+
+
 
 # Implementation
 
@@ -18,6 +26,9 @@ _Mockler Chart, Decision Table, Production Rules_
 
 
 ## Future Enhancement
+The following future enhancements' suggestion are as follows:
+- The system should be able to accept any numeric value when asking for `wheelbase`, `engine capacity` and `gear count`.
+- The system should also be able to accept that the user has unknown car properties.
 
 
 # User Manual
