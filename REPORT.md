@@ -1,5 +1,6 @@
 # Introduction
-
+Buying a car is not a small task and it requires a lot of money to do so. From researching the model and specs of the car to placing the down-payment, it is quite a stress to first-timers and it probably reduces the urge to buy the car once it is all settled down.  
+To cope with this, we developed a system that allows the user to narrow down the intended cars based on a series of yes and no questions. It allows the reduction of indimidation done towards the user and fosters efficient communication between the salesperson and the customer, as the customer can approach the salesperson already with car model(s) in mind.
 
 # KBS Life Cycle
 
