@@ -40,15 +40,130 @@ To cope with this, we developed a system that allows the user to narrow down the
 ### Mockler Chart
 
 
-
-## Production Rules
-
+### Decision Table
 
 
-# Implementation
+### Production Rules
+- ```
+  IF engine (capacity of car ≤ 1.150), 
+  THEN (car model suggested is Proton   Tiara)
+  ```
+
+- ```
+  IF (engine capacity > 1.150) AND (wheelbase ≤ 2417.500),
+  THEN (car model suggested is Proton Saga 1985)
+  ```
+
+- ```
+  IF (platform = Suzuki ZC) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Ertiga)
+  ```
+
+- ```
+  IF (platform = Proton P2) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton P2 wheelbase > 2690),
+  THEN (car model suggested is Proton Exora)
+  ```
+
+- ```
+  IF (platform = Proton P2) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton P2’s wheelbase < 2690),
+  THEN (car model suggested is Proton Preve)
+  ```
+
+- ```
+  IF (platform = Proton CM) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton CM’s body style = Hatchback),
+  THEN (car model suggested is Proton Gen 2)
+  ```
+
+- ```
+  IF (platform = Proton CM) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton CM’s body style = Sedan),
+  THEN (car model suggested is Proton Persona 2007)
+  ```
+
+- ```
+  IF (platform = Proton BT) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BT’s gear count ≤ 4.5),
+  THEN (car model suggested is Proton Saga 2008)
+  ```
+
+- ```
+  IF (platform = Proton BT) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BT’s gear count > 4.5) AND (Proton BT’s transmission type = CVT),
+  THEN (car model suggested is Proton Saga FLX)
+  ```
+
+- ```
+  IF (platform = Proton BT) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BT’s gear count > 4.5) AND (Proton BT’s transmission type = Manual) AND (Proton BT’s engine capacity > 1.45),
+  THEN (car model suggested is Proton Saga 2008)
+  ```
+
+- ```
+  IF (platform = Proton BT) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BT’s gear count > 4.5) AND (Proton BT’s transmission type = Manual) AND (Proton BT’s engine capacity ≤ 1.45),
+  THEN (car model suggested is Proton Saga 2016)
+  ```
+
+- ```
+  IF (platform = Proton BS) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Satria Neo)
+  ```
+
+- ```
+  IF (platform = Proton BH) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BH’s body style = Hatchback),
+  THEN (car model suggested is Proton Iriz)
+  ```
+
+- ```
+  IF (platform = Proton BH) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton BH’s body style = Sedan),
+  THEN (car model suggested is Proton Persona)
+  ```
+
+- ```
+  IF (platform = Mitsubishi GS) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Inspira)
+  ```
+
+- ```
+  IF (platform = Mitsubishi E50) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Perdana)
+   ```
+
+- ```
+  IF (platform = Mitsubishi DA) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Waja)
+  ```
+
+- ```
+  IF (platform = Mitsubishi CC) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Putra)
+  ```
+
+- ```
+  IF (platform = Mitsubishi CB) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Wira Aeroback)
+  ```
+
+- ```
+  IF (platform = Mitsubishi CA) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton Satria)
+  ```
+
+- ```
+  IF (platform = Honda CP) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton Honda CP’s manufacture year > 2014),
+  THEN (car model suggested is Proton Perdana 2016)
+  ```
+
+- ```
+  IF (platform = Honda CP) AND (engine capacity > 1.150) AND (wheelbase > 2417.500) AND (Proton Honda CP’s manufacture year ≤ 2014),
+  THEN (car model suggested is Proton Perdana 2013)
+  ```
+
+- ```
+  IF (platform = Geely NL) AND (engine capacity > 1.150) AND (wheelbase > 2417.500),
+  THEN (car model suggested is Proton X70)
+  ```
 
 
-# Systems' Testing
+## Implementation
+
+
+## Systems' Testing
 
 
 # Conclusions and Future Enhancement
