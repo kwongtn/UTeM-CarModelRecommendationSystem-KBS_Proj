@@ -1,0 +1,28 @@
+repo_name: kwongtn/UTeM-CarModelRecommendationSystem-KBS_Proj
+report_id: bbcdd54fba3d1647e3f5fd4f1b946e18
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:14:01+00:00'
+requested_by: kwongtn
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kwongtn/UTeM-CarModelRecommendationSystem-KBS_Proj
+  detection_source: Repo Metadata
+- name: CLIPS
+  description: A Tool for Building Expert Systems
+  website_url: http://www.clipsrules.net/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9768/clipslogo.png
+  detection_source_url: https://github.com/kwongtn/UTeM-CarModelRecommendationSystem-KBS_Proj
+  detection_source: Repo Metadata
